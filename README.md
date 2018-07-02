@@ -108,7 +108,6 @@ z
 * [JD-GUI](http://jd.benow.ca/)
 * [JiTouch](https://www.jitouch.com/)
 * [LiveReload](http://livereload.com/)
-* [Locko](http://www.binarynights.com/)
 * [MacDown](http://macdown.uranusjr.com/)
 * [Moon](http://manytricks.com/moom/)
 * [Mou](http://25.io/mou/)

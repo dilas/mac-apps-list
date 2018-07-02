@@ -31,6 +31,7 @@
 * [VirtualBox](https://www.virtualbox.org/)
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [VLC](http://www.videolan.org/vlc/)
+* [Wavebox](https://wavebox.io)
 * [WebStorm](https://www.jetbrains.com/webstorm/)
 * [Xcode](https://developer.apple.com/xcode/)
 
